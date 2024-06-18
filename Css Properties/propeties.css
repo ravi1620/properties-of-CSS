@@ -1,0 +1,62 @@
+#bjp {
+    background-color: orangered;
+    width:300px;
+    border: 20px solid orangered;
+}
+#inc{
+    background-color: green;
+    border: 15px dotted darkgreen;
+    height:250px;
+}
+#ycp{
+    border: 10px solid blue;
+    background-color: blue;
+}
+#tdp{
+    border: yellow 15px dashed;
+}
+#mainheading{
+    color: brown;
+    text-align: center;
+    background-color: wheat;
+    box-shadow: 10px 10px 10px grey;
+     border-radius: 200px;
+     font-size: 3.999rem;
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    
+}
+#mainheading:hover{
+    background-color: blue;
+    color: blueviolet;
+}
+#bharat:hover{
+background-color: orangered;
+text-align: center;
+color: wheat;
+font-size: 2.5rem;
+}
+#telugu:hover{
+    background-color: yellow;
+    text-align: center;
+    color: red;
+    font-size: 2.5rem;
+}
+#ysr{
+    text-align: center;
+    background-color: blue;
+    font-size: 2.6rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#ysr:hover{
+    background-color:burlywood;
+    color: blue;
+}
+#congress{
+    background-color: green;
+    text-align: center;
+    font-size: 2.4rem;
+}
+#congress:hover{
+    background-color: yellowgreen;
+    color: orangered;
+}
